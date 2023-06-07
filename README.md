@@ -2,9 +2,9 @@
 
 Following code was performed in Google Collab and it extracts landmarks from Mediapipe Holistic and train the coordinates for Mexican Sign Language Recognition in its dactylology (29 characters) and the first 10 digits. We adapted code from:
 
-> Renotte, N. (2020). ActionDetectionforSignLanguage. GitHub. https://github.com/nicknochnack/ActionDetectionforSignLanguage![image](https://github.com/EmmanuelRTM/TrainingAndExtractionForMSLRecognition/assets/49663490/c2f91232-ed45-44a9-96b4-826965ffdb04)
+> Renotte, N. (2020). ActionDetectionforSignLanguage. GitHub. https://github.com/nicknochnack/ActionDetectionforSignLanguage
 
-> TheAIGuysCode. (2020). Colab-webcam. GitHub. https://github.com/theAIGuysCode/colab-webcam![image](https://github.com/EmmanuelRTM/TrainingAndExtractionForMSLRecognition/assets/49663490/47f80aff-a6fa-43c4-a6a1-d09dffdb06b2)
+> TheAIGuysCode. (2020). Colab-webcam. GitHub. https://github.com/theAIGuysCode/colab-webcam
 
 The dataset used was published in Data Mendeley as 7 Open Source datasets, and they can be found here: 
 
