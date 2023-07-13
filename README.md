@@ -6,7 +6,7 @@ Following code was performed in Google Collab and it extracts landmarks from Med
 
 > TheAIGuysCode. (2020). Colab-webcam. GitHub. https://github.com/theAIGuysCode/colab-webcam
 
-The dataset used was published in Data Mendeley as 7 Open Source datasets, and they can be found here: 
+The dataset used were published in Data Mendeley as 7 Open Source datasets, and they can be found here: 
 
 > Rodriguez, M., Outmane, O., Bassam, A., & Noureddine, L. (2023a). Mexican Sign Language’s Dactylology and Ten First Numbers -Raw videos. From person #1 to #3 [Data set]. Mendeley. V1. https://doi.org/10.17632/48XYBSMVPV.1
 
