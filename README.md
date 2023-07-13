@@ -1,6 +1,6 @@
 # TrainingAndExtractionForMSLRecognition
 
-Following code was performed in Google Collab and it extracts landmarks from Mediapipe Holistic and train the coordinates for Mexican Sign Language Recognition in its dactylology (29 characters) and the first 10 digits. We adapted code from:
+Following code was performed in Google Collab and it extracts landmarks from Mediapipe Holistic and train the coordinates for Mexican Sign Language Recognition in its dactylology (29 characters) and the first 10 digits. We adapted the following code to complement our project:
 
 > Renotte, N. (2020). ActionDetectionforSignLanguage. GitHub. https://github.com/nicknochnack/ActionDetectionforSignLanguage
 
